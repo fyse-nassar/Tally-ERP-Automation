@@ -16,4 +16,4 @@ Extracts the daily sales report from a CSV file and creates a sale voucher autom
 
 
 ## Ackowledgment
-[Automate the Boring Stuff with Python]([https://automatetheboringstuff.com/](https://automatetheboringstuff.com/))
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
